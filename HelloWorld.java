@@ -10,5 +10,7 @@ public class HelloWorld {
     System.out.println("Hello Vinay this is a simple Java class!!!");
     System.out.println("Hello Kumar this is a simple Java class!!!");
     System.out.println("Hello Kumar this is a simple Java class!!!");
+    System.out.println("Hello PVK this is a simple Java class!!!");
+    System.out.println("Hello PVK this is a simple Java class!!!");
    }
 }
