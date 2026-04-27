@@ -5,5 +5,8 @@ public class HelloWorld {
     System.out.println("Hello World java !!!");
     System.out.println("Hello World java !!!");
     System.out.println("Hello World java !!!");
+    System.out.println("Hello Vinay this is a simple Java class!!!");
+    System.out.println("Hello Vinay this is a simple Java class!!!");
+    System.out.println("Hello Vinay this is a simple Java class!!!");
    }
 }
